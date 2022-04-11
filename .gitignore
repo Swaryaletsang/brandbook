@@ -6,8 +6,11 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-./frontend/node_modules/
-./backend/node_modules/
+backend/.strapi-updater.json
+backend/build
+
+frontend/node_modules/
+backend/node_modules/
 .expo/
 dist/
 npm-debug.*
